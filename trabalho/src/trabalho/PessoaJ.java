@@ -1,6 +1,6 @@
 package trabalho;
 
-public class PessoaJ extends Pessoa {
+public abstract class PessoaJ extends Pessoa {
 	
 	private float CNPF;
 
