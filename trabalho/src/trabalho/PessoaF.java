@@ -1,6 +1,6 @@
 package trabalho;
 
-public class PessoaF extends Pessoa {
+public abstract class PessoaF extends Pessoa {
 	
 	private String CPF;
 
